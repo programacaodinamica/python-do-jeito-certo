@@ -1,0 +1,401 @@
+nome;mae;pai;data_nasc;titulo;zona;secao;municipio;uf;data_insc;votou
+Lucas Bradley;Diana Rasmussen;Hayes Donovan;01/12/2004;1669120263399;113;6724;Feira de Santana;BA;22/04/2019;1
+Rhona Robles;Galena West;Wesley Reynolds;24/09/1920;1617092601899;461;7805;Ilhéus;BA;25/02/2018;1
+Calista Rice;Gail Hester;Emery Jefferson;26/01/1998;1680010743499;363;8847;Itabuna;BA;31/03/2018;1
+Kieran Wheeler;Autumn Higgins;Jason Webster;11/02/1995;1647010999099;319;5523;Camaçari;BA;03/01/2020;1
+Wylie Larson;Felicia Kelly;Finn Diaz;08/02/1984;1650012903699;613;7233;Juazeiro;BA;23/12/2019;1
+Stone Bowman;Kylie Boyer;James Buckner;07/07/1955;1680102445499;440;6593;Itabuna;BA;26/05/2019;1
+Cassandra Ingram;Ella Cooley;Callum Gomez;18/07/1929;1622082262599;831;6212;Ilhéus;BA;15/10/2018;1
+Hop Thompson;Cheryl Robertson;Peter Williamson;23/11/1985;1653040955899;883;6097;Ilhéus;BA;21/08/2018;0
+Quin Gillespie;Imani Mays;Jonah Moon;03/10/1992;1656102770799;266;3165;Lauro de Freitas;BA;02/06/2019;0
+Lucas Juarez;Molly Franklin;Cooper Shaw;04/01/1911;1669051298399;915;6871;Vitória da Conquista;BA;01/08/2018;1
+Katell Estes;Imelda Trujillo;Giacomo Valdez;23/07/1974;1691121773399;684;7096;Salvador;BA;16/04/2018;0
+Mariam Knowles;Haley Bradford;Judah Avila;18/11/1957;1600083017399;528;4044;Camaçari;BA;06/04/2019;1
+Venus Stokes;Jasmine Knox;Kevin Bruce;06/06/1952;1647010347199;133;7505;Salvador;BA;02/10/2019;1
+Claire Davidson;Simone Stevens;Anthony Rogers;17/11/1914;1620090462199;272;8146;Itabuna;BA;18/12/2019;0
+Amela Leon;Idona Mcintosh;Cole Leach;21/01/1951;1653082173499;226;7217;Salvador;BA;23/02/2018;1
+Simone Todd;Jemima Pittman;Ira Shaw;04/10/1931;1675081097499;936;4957;Vitória da Conquista;BA;05/12/2018;1
+Herman Joyner;Mallory Mcleod;Jakeem Bell;27/10/2001;1674110665099;167;4222;Camaçari;BA;22/08/2018;1
+Burke Albert;Aurelia Ross;Colton Hicks;01/03/2016;1694081693999;588;5874;Vitória da Conquista;BA;26/12/2018;0
+Bethany Dillon;September Shields;Maxwell Mueller;24/03/1924;1636071016199;475;7324;Vitória da Conquista;BA;13/12/2018;0
+Brent Lamb;Azalia Jones;Tobias Mooney;31/03/1923;1676092835899;177;5173;Juazeiro;BA;13/09/2018;0
+Kameko Knight;Jayme Nixon;Preston Jacobs;31/03/2006;1602011629399;663;2112;Itabuna;BA;06/12/2018;0
+Bert Barnett;Tanisha Dunn;Hiram Snyder;20/07/1958;1657040289099;279;2725;Feira de Santana;BA;23/12/2019;1
+Amos Neal;Daphne Fleming;Luke Dyer;10/06/1948;1641070244899;188;7188;Juazeiro;BA;18/04/2018;1
+Nigel Harvey;Halla Alston;Ciaran Kelly;13/10/1965;1613012896299;808;3343;Ilhéus;BA;01/11/2018;1
+Len Donovan;Kay Banks;Galvin Moss;13/11/2003;1636110774299;696;7478;Salvador;BA;19/08/2018;1
+Dolan Blackburn;Ashely Ware;Donovan Hunt;04/10/1971;1651042448399;601;3678;Camaçari;BA;17/11/2018;0
+Tucker Farrell;Lisandra Horton;Lucius Montgomery;07/02/2018;1640042412699;659;4507;Vitória da Conquista;BA;06/05/2018;0
+Hermione Golden;Jada Reyes;Akeem Brady;16/01/1953;1684122934999;457;9463;Lauro de Freitas;BA;06/01/2019;1
+William Bradshaw;Hilary Livingston;Rooney Newton;09/11/1938;1666021458999;959;8024;Camaçari;BA;11/10/2018;1
+Lawrence Aguilar;Serina Bates;Beck Maldonado;18/10/1923;1601061339499;239;3446;Camaçari;BA;26/01/2018;1
+Maxwell Cole;Rebekah Montoya;Nicholas Ruiz;28/10/1933;1638120583899;868;4733;Lauro de Freitas;BA;02/11/2018;0
+Angela Vasquez;Jeanette Nelson;Graham Frank;26/08/1973;1699112202999;578;7351;Vitória da Conquista;BA;24/03/2019;0
+Oren Dunlap;Nayda Rhodes;Mannix Ewing;14/03/1940;1632022407799;268;5304;Ilhéus;BA;23/10/2019;0
+Curran Kane;Blythe Navarro;Malcolm Bonner;06/08/1971;1695112742599;616;2732;Juazeiro;BA;22/09/2018;1
+Micah Velez;Jemima Carson;Vance Ballard;19/10/1923;1619040430799;644;6615;Itabuna;BA;23/10/2018;0
+Hashim Harrell;Stella Kaufman;Ryder Solomon;15/02/2017;1690081262499;656;4113;Feira de Santana;BA;31/10/2019;0
+Paula Reynolds;Kylynn Bass;Ishmael Erickson;24/11/1959;1694031245499;290;7454;Caucaia;CE;12/09/2019;1
+Ali Mccall;Mari Spears;Kevin Wheeler;27/01/1941;1695052997599;702;8075;Fortaleza;CE;11/10/2018;0
+Bernard Hicks;Camille Frost;Kelly Fuentes;11/10/1946;1636072909599;576;6857;Itapipoca;CE;15/10/2019;1
+Jermaine Vaughn;Quynn Richard;Porter Salinas;21/04/1934;1677090846999;258;6800;Caucaia;CE;23/06/2018;1
+Brittany Livingston;Martina Harrington;Jelani Simpson;24/09/1947;1655020789399;205;2847;Itapipoca;CE;20/08/2019;0
+Ora Lee;Pascale Haynes;Talon Carney;23/01/1956;1675092413099;442;3824;Maracanaú;CE;27/11/2019;1
+Garrett Rose;Wanda Washington;Brian Porter;29/04/1927;1640051159799;939;6130;Itapipoca;CE;31/05/2019;0
+Danielle Rios;Jeanette Cunningham;William Juarez;13/02/1978;1693020387299;895;8188;Fortaleza;CE;27/04/2019;0
+Diana Rich;Lysandra Heath;Dalton Walls;12/10/2018;1680082557599;121;7947;Itapipoca;CE;26/07/2018;1
+Juliet Burnett;Stacey Mcneil;Hammett Taylor;01/07/2010;1641081653099;584;3939;Crato;CE;28/08/2019;0
+Hedley Hodges;Daria Montoya;Holmes Henry;30/03/1942;1673111311399;561;7370;Fortaleza;CE;06/12/2018;0
+Duncan Dudley;Jael Aguirre;Ferris Waters;24/04/1910;1609061531899;475;9912;Caucaia;CE;04/02/2018;1
+Chase Deleon;Yetta Maxwell;Elliott West;26/04/1959;1680040218699;913;5891;Fortaleza;CE;30/01/2019;0
+Justina Ford;Geraldine Erickson;Stewart Wise;30/08/2009;1610110550399;375;2343;Maranguape;CE;21/12/2018;0
+Libby Camacho;Dacey Mcclain;Richard Berry;08/09/1930;1668042610499;464;9899;Maranguape;CE;17/02/2018;1
+Garth Zimmerman;Charlotte Kerr;Nero Sykes;15/07/1924;1639010915499;897;2944;Maracanaú;CE;11/12/2018;1
+Eric George;Deborah Valenzuela;Keaton Cohen;06/04/1951;1662080260599;252;6318;Juazeiro do Norte;CE;22/12/2019;0
+Baxter Howe;Kellie Sanchez;Ignatius Rhodes;18/09/1918;1688071741199;502;7101;Itapipoca;CE;28/11/2019;0
+Amity Hardin;Sloane Fuentes;Abdul Soto;15/08/1960;1692101008399;387;9728;Juazeiro do Norte;CE;26/08/2018;1
+Nichole Stark;Latifah Hinton;Dane Robbins;25/07/1942;1600121308699;999;9356;Sobral;CE;14/01/2018;1
+Christine Maynard;Savannah Hicks;Barrett Norris;06/04/1948;1616012686699;231;3410;Crato;CE;09/08/2018;1
+Ezekiel Solomon;Quynn Dennis;Gage Graham;05/04/1932;1635122342499;170;7053;Crato;CE;09/02/2018;1
+Nola Anthony;Linda Owens;Plato Bennett;18/09/1967;1659022437399;787;9497;Juazeiro do Norte;CE;16/08/2019;0
+Eden Buckner;Odette Dunn;Orlando Morse;26/11/1972;1626062600799;443;2935;Maranguape;CE;07/09/2018;1
+Jolie Ellison;Charde Fletcher;Robert Hansen;27/05/1952;1608121298299;632;4185;Crato;CE;23/08/2019;0
+Kellie Bush;Basia Dillard;Lance Morin;02/05/1944;1672012647699;761;3084;Maracanaú;CE;17/07/2019;0
+Rogan Reeves;Zenaida Salazar;Graiden Kelley;05/11/1926;1603100651699;949;6647;Anápolis;GO;07/09/2019;1
+Declan Nixon;Erica Duke;Cooper Alvarado;25/04/1945;1607052823699;406;8817;Águas Lindas de Goiás;GO;27/07/2018;1
+Oliver Fry;Amanda Powers;Yasir Vazquez;08/11/1915;1640090149399;248;9327;Goiânia;GO;25/08/2018;1
+Miriam Medina;Haviva Ratliff;Jeremy Barry;14/02/1967;1669051990199;813;9851;Goiânia;GO;30/07/2018;0
+Heather Ray;Dawn Clemons;Richard Downs;04/05/1933;1694102607399;194;7054;Rio Verde;GO;09/05/2018;1
+Wesley Gibson;Hayfa Fitzgerald;Scott Sanders;31/12/1978;1661060651199;393;7980;Valparaíso de Goiás;GO;08/10/2019;0
+Aurelia Levine;Rina Bruce;Conan Bullock;15/10/1976;1644062365499;235;8130;Aparecida de Goiânia;GO;17/03/2019;1
+Derek Mcmahon;Winter Collins;Darius Owens;17/10/1919;1671061511499;104;4761;Goiânia;GO;16/10/2018;0
+Lane Lindsey;Zoe Brennan;Daniel Boyle;02/03/1911;1683020217899;812;2857;Goiânia;GO;07/12/2018;0
+Benedict Hill;Ivana Mcdowell;Mark Jimenez;24/10/1959;1619051024599;539;9958;Luziânia;GO;30/08/2018;0
+Megan Newton;Kimberley Kim;Bradley Vaughan;30/03/2018;1621030537499;244;7143;Luziânia;GO;04/01/2019;0
+Colton Hood;Maia Freeman;Chadwick Stevens;23/04/1949;1674112883199;920;6458;Goiânia;GO;12/08/2018;1
+Declan Kennedy;Kaitlin Caldwell;Colin Garner;13/10/1911;1640052695599;840;5391;Anápolis;GO;28/08/2018;1
+Tyler Jacobson;Amethyst Sparks;Baxter Castro;21/08/1937;1672102712799;329;8342;Chapadinha;MA;03/02/2019;1
+Colette Kidd;Haviva Norris;Dominic Stevenson;17/05/1923;1605101108299;396;7409;Balsas;MA;07/08/2018;0
+Hadassah Morales;Jayme Horton;Burke Beasley;11/03/2014;1628091191499;901;6903;Açailândia;MA;08/12/2018;0
+Ferdinand Sandoval;Ruth Mcgee;Thaddeus Castaneda;10/03/1930;1623040553499;255;4606;Açailândia;MA;18/10/2019;0
+Rogan Hobbs;Cassandra Justice;Octavius Bentley;28/08/2014;1615122074499;725;7198;Codó;MA;09/12/2018;1
+Donna Robertson;Nayda Wise;Yoshio Bates;24/12/1972;1635041061199;459;8809;Bacabal;MA;10/03/2018;0
+Kylynn Gilliam;Zelenia Dennis;Howard Lynch;10/09/1923;1647020814299;412;5282;Codó;MA;30/04/2019;1
+Fritz Guerrero;Unity Ruiz;Connor Nixon;07/03/1973;1676091319899;900;6339;Imperatriz;MA;05/10/2018;0
+Hadley Keller;Xena Parsons;Gabriel Richards;05/08/1938;1697091522199;842;7853;Paço do Lumiar;MA;28/09/2019;1
+Ann Marshall;Jorden Walker;Zachery Le;05/11/1918;1662110678099;533;9712;Santa Inês;MA;28/06/2018;1
+Blair Dickson;Brynne Mosley;Calvin Harvey;23/03/2002;1697042216899;854;3205;Balsas;MA;03/03/2019;1
+Jaquelyn Ramirez;Keiko Hahn;Demetrius Humphrey;14/05/2011;1602080120899;429;7611;Chapadinha;MA;28/05/2018;1
+Kaye Schwartz;Patricia Norris;Justin Hernandez;26/03/1914;1644110393499;724;4144;Chapadinha;MA;09/08/2018;0
+Daphne Banks;Ann Soto;Robert Bass;07/02/2004;1617121487499;547;4707;São Luís;MA;01/04/2019;0
+August Foster;September Russo;Richard Gomez;09/09/1998;1634030150699;324;8539;Bacabal;MA;24/02/2019;1
+Asher Terry;Chastity Levy;Cedric Sweet;08/11/1986;1609090530799;870;9298;Santa Inês;MA;24/06/2019;1
+Rudyard Gibson;Amber Bowman;Slade Lott;05/01/2015;1614052105799;921;8239;Paço do Lumiar;MA;09/01/2019;1
+Melodie Velazquez;Deborah Valentine;Hyatt George;06/03/1984;1651010406399;573;3072;Caxias;MA;07/09/2019;1
+Lyle Matthews;Martina Turner;Kenneth Banks;19/08/1993;1681021441199;521;4908;Bacabal;MA;06/07/2018;1
+Liberty Simpson;Xena Fuller;Alec Gentry;25/03/1993;1662090477199;800;5249;Chapadinha;MA;08/04/2018;1
+Skyler Ward;Shoshana Aguilar;Alec Bean;11/12/1986;1647062519999;589;7730;Codó;MA;09/08/2018;1
+Jasper Diaz;Madonna Hunter;Philip Harper;07/10/1924;1620102734399;133;7247;Barra do Corda;MA;06/05/2018;0
+Elton Wheeler;Amelia Conrad;Len Roman;25/03/1994;1634111991399;476;8900;Governador Valadares;MG;17/10/2018;1
+Galvin Cardenas;Roanna Bruce;Drew Pittman;07/01/1945;1681101429399;315;7310;Belo Horizonte;MG;19/06/2019;1
+Neil Pearson;Jorden Shepherd;Valentine Hood;28/04/1964;1675051771099;918;9423;Divinópolis;MG;09/02/2018;1
+May Gates;Alfreda Mccarty;Hayes Livingston;20/01/1951;1668110256799;834;8273;Uberaba;MG;20/12/2019;0
+Norman Roberts;Adria Blair;Curran Poole;22/01/1944;1672011634399;696;7366;Uberaba;MG;22/07/2018;1
+Jeremy Douglas;Kerry Harding;Carl Cummings;21/07/1930;1621101309699;207;7786;Juiz de Fora;MG;25/11/2019;0
+Kyle Delgado;Venus Kline;Jerry Macdonald;22/11/1958;1696032327599;715;7565;Contagem;MG;24/07/2019;1
+Cadman Cervantes;Aurora Gilmore;Finn Orr;06/05/1938;1622043090199;330;2378;Sete Lagoas;MG;29/12/2018;0
+Xavier Bryan;Adrienne Andrews;Ryan Pena;12/08/1989;1658061496399;438;5730;Ipatinga;MG;12/01/2019;1
+Francesca Fields;Kai Carr;Hayes Benson;23/05/1922;1695122341199;282;2372;Betim;MG;23/12/2019;1
+Steven Williamson;Maggy Raymond;Duncan Allen;11/11/1985;1639081958999;458;9515;Governador Valadares;MG;19/03/2019;0
+Adam Poole;Quintessa Holcomb;Rahim Marsh;07/12/1983;1616102767999;404;5325;Betim;MG;06/12/2019;1
+Quincy Hogan;Zoe Vargas;Ray Schroeder;13/12/1939;1698032472799;443;9867;Uberaba;MG;09/03/2019;1
+Hyatt Barnett;Ciara Burt;Emery Mcconnell;02/06/1964;1618050414899;870;5711;Betim;MG;17/08/2018;1
+Nevada Moss;Hanae Howard;Alexander Alston;12/12/1971;1624092655099;320;7752;Juiz de Fora;MG;27/06/2018;1
+Amela Holder;Lydia Mason;Rafael Dickson;16/02/1983;1619011793599;878;2569;Ribeirão das Neves;MG;23/03/2019;1
+Wang Shepherd;Lisandra Black;Kareem Garrison;01/08/1997;1695070185399;805;4667;Belo Horizonte;MG;19/06/2018;0
+Kane Gonzalez;Alfreda Nicholson;Benedict Strong;04/10/1944;1662092987999;296;9705;Ipatinga;MG;15/09/2019;0
+Jane Cortez;Alexis Long;Yardley Morton;04/12/1923;1670122525099;661;4850;Uberaba;MG;15/07/2019;0
+Emi Butler;Xantha Maddox;Gabriel Juarez;18/08/1948;1664050782799;819;5912;Ipatinga;MG;10/09/2019;0
+Graham Richard;Eugenia Wallace;Hunter Snyder;15/05/2015;1612021651499;997;6739;Juiz de Fora;MG;13/06/2019;0
+Lewis Rosa;Wilma Thomas;Ignatius Ellis;28/01/1986;1608020583199;818;4620;Betim;MG;21/02/2018;0
+Ezra Carrillo;Keiko Elliott;Ciaran Brennan;30/06/1924;1614081506499;274;6211;Santa Luzia;MG;09/11/2019;0
+Adam Mooney;Candice Duran;Rigel Glenn;08/02/1985;1679030901099;984;8322;Sete Lagoas;MG;30/10/2018;1
+Noelle Perez;Maggy Vazquez;Benedict Berger;20/12/1952;1647011888699;843;3867;Contagem;MG;27/01/2019;1
+Kylie Welch;Hedda Nicholson;Ryder Carter;14/09/2014;1668122696899;705;5335;Governador Valadares;MG;19/02/2019;0
+Michael Salas;Jocelyn Knapp;Grady Hampton;16/08/1962;1642052377499;431;6992;Uberaba;MG;02/03/2019;1
+Dawn Goff;Emi Porter;Grant Burks;21/08/1989;1665111812799;657;6509;Santa Luzia;MG;21/07/2018;0
+Orlando Collins;Deirdre Mckee;Hu Cohen;10/08/1973;1664050302299;782;6646;Sete Lagoas;MG;03/04/2019;0
+Grady Sosa;Allegra Cervantes;Prescott Franco;20/04/1911;1674051702399;128;9017;Santa Luzia;MG;15/11/2019;0
+Xavier Santana;Maggie Owens;Kato Glass;07/06/1947;1659072437999;221;3411;Juiz de Fora;MG;17/07/2018;0
+Ulysses Sexton;Adrienne Maynard;Magee Parsons;13/12/1926;1660032818199;716;7351;Uberaba;MG;16/04/2019;1
+Winifred Wyatt;Rana Tucker;Flynn Dunn;05/11/1925;1692022845899;506;4396;Santa Luzia;MG;03/02/2018;0
+Kim Alford;Halee Mills;Raja Case;01/09/2014;1677042517499;914;8213;Juiz de Fora;MG;31/05/2019;0
+Nicholas Green;Hedda Church;Bruce Waters;04/08/1984;1627020513399;101;6565;Ribeirão das Neves;MG;04/01/2020;1
+Elijah Moody;Amber Craig;Ahmed Mckenzie;22/11/1939;1647111307299;137;5431;Santa Luzia;MG;15/12/2019;0
+Asher Rodriguez;Cherokee Orr;Robert Phillips;20/09/2002;1695081651999;958;9977;Ribeirão das Neves;MG;06/04/2019;1
+Linus Warren;Barbara Murray;Aquila Chapman;22/07/1978;1664011353099;495;2913;Santa Luzia;MG;08/10/2018;0
+Vaughan Luna;Brenda Berger;Ross Owens;26/02/1943;1660122976799;456;2784;Uberaba;MG;04/02/2019;1
+Melinda Pearson;Caryn May;Rigel Kent;12/02/1986;1653042803899;988;2301;Juiz de Fora;MG;01/05/2019;1
+Avye Kemp;Sydnee Reynolds;Lucian Puckett;10/10/1915;1632032443099;841;5856;Uberaba;MG;29/08/2018;1
+Nita Franklin;Jade Norris;Stone Savage;04/07/1952;1680072357799;139;7362;Betim;MG;18/03/2019;0
+Yolanda Craig;Hadley Marquez;Maxwell Coffey;13/09/1908;1616080866299;644;3658;Contagem;MG;04/05/2019;0
+Portia Clark;Basia Mathews;Dean Farrell;11/04/2007;1648061174499;638;7146;Governador Valadares;MG;03/10/2019;0
+Cruz Mcguire;Darryl Estes;Hyatt Byrd;07/11/1912;1692052707499;253;6737;Uberaba;MG;18/09/2019;1
+Tobias Bowers;Rae Ruiz;Leroy Haley;30/08/1929;1685030711499;244;3356;Contagem;MG;11/01/2018;0
+Nicole Bailey;Rylee Yang;Kareem Rose;25/05/1951;1679051578799;798;2622;Ribeirão das Neves;MG;17/05/2018;0
+Howard Francis;Jessica Holden;Hayden Warren;31/05/1928;1644031069999;120;8007;Santa Luzia;MG;13/03/2018;0
+Tamara Zimmerman;Lani Higgins;Grant Wilkinson;12/04/1957;1626060560299;228;4443;Uberaba;MG;14/12/2019;0
+Gloria Richardson;Maris Cash;Brennan Blackburn;20/01/1992;1680030921299;622;6557;Juiz de Fora;MG;08/01/2019;1
+Dawn Hernandez;Shay Cook;Brian Whitney;24/07/2011;1632092146999;440;7323;Cametá;PA;03/10/2018;1
+Hoyt Owen;Tashya Everett;Walker Villarreal;28/04/2017;1646060273999;844;5546;Marabá;PA;31/03/2019;1
+Nelle Hart;Cheyenne Beasley;Buckminster Lawrence;25/08/1922;1615081597799;335;6841;Bragança;PA;29/03/2018;1
+Kermit Howard;Calista Johnston;Alden Conley;09/06/1938;1627050159999;907;2637;Belém;PA;21/05/2019;1
+Dylan Hutchinson;Kitra Goff;Lucian Whitaker;25/11/1925;1646092348899;143;4762;Castanhal;PA;16/06/2019;1
+Carolyn Pugh;Olga Taylor;Reece Welch;02/01/1938;1625082373799;910;7033;Marabá;PA;31/03/2018;0
+Gil Mclean;Bethany Pitts;Justin Briggs;12/12/1996;1642061113199;656;4205;Marabá;PA;21/07/2018;1
+Lana Park;Erin Dickson;Mannix Davidson;12/07/1959;1632091004399;555;2044;Belém;PA;13/03/2019;1
+Hunter Shepard;Nayda Gray;Colorado Zimmerman;18/03/1967;1680012053999;563;9548;Cametá;PA;19/04/2018;0
+Shea Peters;Urielle Mcmahon;Russell Rutledge;06/06/1934;1617011024699;694;5185;Castanhal;PA;01/03/2019;0
+Todd Pace;Alika Cohen;Nolan Dotson;16/10/1934;1676070527199;732;8452;Bragança;PA;29/07/2019;0
+Deacon Hancock;Mikayla Walsh;Donovan Puckett;03/01/1952;1651050840399;182;6603;Sousa;PB;30/09/2018;0
+Samson Booth;Gillian Skinner;Lionel Espinoza;28/12/1958;1611020715599;648;4882;Cajazeiras;PB;28/01/2018;0
+Barrett Mccarthy;Cailin Vance;Reuben Wiggins;06/08/2018;1637020871899;964;8194;Cajazeiras;PB;27/03/2019;0
+Ina Parrish;Nayda Pratt;Kamal Hayden;09/07/1995;1673072194799;845;2607;Santa Rita;PB;16/07/2019;1
+Camilla Coffey;Mikayla Mcgowan;Paki Moreno;13/11/1970;1646102447699;532;9724;Ponta Grossa;PR;30/05/2019;0
+Hyacinth Dennis;Cailin Cervantes;Axel Sparks;12/11/2017;1675040549599;141;3524;Paranaguá;PR;24/09/2018;1
+Joseph Reilly;Melissa Hardy;Raymond Dillon;18/06/1977;1681121990899;616;3770;São José dos Pinhais;PR;03/10/2018;0
+Moses Delaney;Bertha Mayo;Chester Fleming;23/10/1929;1635112980299;201;7583;Paranaguá;PR;14/02/2018;1
+Ebony Rocha;Rose Short;Tucker Snyder;01/02/1962;1652111731299;742;4287;Londrina;PR;25/04/2018;0
+Brendan Gibson;Jane Robbins;Brenden Mann;26/08/1947;1606123005499;551;9498;São José dos Pinhais;PR;16/02/2019;1
+Theodore Horne;Unity Wong;Gage Middleton;13/11/2017;1606071654499;608;2403;Foz do Iguaçu;PR;31/10/2019;0
+Griffith Rhodes;Isabella Rios;Troy Sanford;22/11/2017;1636032494399;874;2535;Guarapuava;PR;29/09/2019;0
+Christopher Holman;Amena Long;Grant Pittman;20/03/1923;1646062142099;479;4510;Colombo;PR;16/04/2019;0
+Francesca Daniels;Lael Daniels;Palmer Hawkins;22/10/2016;1678010609299;648;9940;São José dos Pinhais;PR;10/01/2019;0
+Britanney Carney;Kessie Chandler;Dolan Jarvis;27/09/1930;1602031888699;149;8638;Colombo;PR;28/09/2019;1
+Minerva Davis;Charity Shields;Erasmus Haney;27/05/2004;1626042456299;707;7640;Colombo;PR;21/11/2018;0
+Warren Battle;Rhoda Finch;Howard Decker;04/07/1976;1663120208099;536;2525;Maringá;PR;11/10/2019;1
+Tate Chase;Allegra Morse;Mannix Park;12/11/1926;1698011641199;472;5812;Foz do Iguaçu;PR;19/10/2019;0
+Piper Mcfarland;Samantha Bartlett;Kaseem Andrews;12/09/1967;1648092254599;721;4662;Cascavel;PR;06/05/2019;1
+Fritz Jones;Quynn Vang;Lamar Anderson;07/01/1937;1674051734399;443;3093;Guarapuava;PR;08/05/2018;1
+Carolyn Brown;Sonya Perkins;Chandler Wright;25/11/1916;1640051876699;711;4037;Maringá;PR;10/06/2019;0
+Brooke Nixon;Kiara Reeves;Wayne Montoya;17/03/1976;1628031169499;481;6499;Foz do Iguaçu;PR;07/08/2019;0
+Signe Fitzpatrick;Liberty Gibson;Mufutau Wiley;07/05/1969;1656030442199;872;2271;Cajazeiras;PB;23/07/2019;1
+Derek Mason;Kim Elliott;Ulric Carrillo;13/04/2017;1698021071799;722;6623;Sousa;PB;04/06/2019;0
+Zephr Briggs;Iola Cohen;Peter Colon;09/02/1936;1679040565299;919;4471;João Pessoa;PB;03/07/2019;0
+Athena Branch;Debra Ball;Vincent Cox;06/05/1941;1670032770999;841;6707;Bayeux;PB;08/10/2018;1
+Kirestin Best;Kim Morin;Isaac Woods;07/03/1940;1624122741199;394;5179;Sousa;PB;04/01/2020;0
+Keiko Aguirre;Megan Richardson;Burton Madden;29/12/2011;1680061273699;642;6225;Olinda;PE;29/01/2019;1
+Bruce Mercer;Angelica Sargent;Herman Watson;24/12/1990;1676010614499;143;3184;Paulista;PE;14/01/2019;1
+Wyatt Phillips;Jamalia Foley;Omar Morin;09/09/1999;1675062686699;690;5680;Jaboatão dos Guararapes;PE;24/10/2018;1
+Jane Burnett;Carolyn Russo;Tiger Gomez;04/11/1986;1652062327199;606;5905;Petrolina;PE;09/11/2019;1
+Victoria Gates;Candice Cameron;Colorado Singleton;02/09/1911;1677052701299;437;2346;Paulista;PE;13/03/2018;1
+Nyssa Emerson;Anne Cole;Gannon Zimmerman;23/02/1979;1620081398099;843;4559;Caruaru;PE;29/08/2018;0
+Dennis Dyer;Jessamine Valdez;Leroy Sykes;16/11/1921;1668100491899;509;8156;Olinda;PE;11/01/2019;0
+Halee Houston;Danielle Oneil;Robert Compton;16/05/2008;1609041407099;290;2643;Paulista;PE;13/07/2018;0
+Basil Schneider;Scarlett Madden;Fritz Fleming;15/02/1986;1668032597199;368;3487;Paulista;PE;11/03/2019;1
+Chaim Gordon;Jada Ferguson;Upton Gilbert;11/06/1956;1621052230699;222;6048;Cabo de Santo Agostinho;PE;22/11/2019;0
+Rae Oconnor;Nerea Fuller;Castor Odonnell;26/06/1967;1615100935399;863;3876;Petrolina;PE;01/01/2019;1
+Constance Cox;Clio Weaver;Warren Clemons;02/11/1953;1658082010699;471;2628;Cabo de Santo Agostinho;PE;04/05/2019;0
+Micah Franco;Chloe Bean;Hamilton Nelson;21/02/2014;1636072791899;166;8814;Camaragibe;PE;26/09/2018;1
+Heather Long;Kendall Buck;Caleb Potts;07/02/1974;1640062312499;435;8612;Olinda;PE;27/04/2018;0
+Quyn Kidd;Lacota Johnston;Clinton Hewitt;22/12/1998;1618111679799;143;5362;Paulista;PE;14/02/2019;0
+Brian Nunez;Kim Hinton;Lyle Mccormick;16/12/1948;1605050840199;475;6365;Caruaru;PE;22/08/2019;1
+Keane Tucker;Xandra Griffin;Lawrence Short;05/07/1909;1686062302199;611;7577;Jaboatão dos Guararapes;PE;28/09/2018;0
+Lois Banks;Eleanor Preston;Basil Callahan;09/09/1940;1608011671999;500;4065;Jaboatão dos Guararapes;PE;09/11/2018;0
+Yoshi Flores;Keelie Jefferson;Fitzgerald Norris;10/02/1952;1692011981599;887;2046;Cabo de Santo Agostinho;PE;04/10/2018;1
+Griffin Dale;Winter Lyons;Dolan Mcdowell;23/12/2008;1657031214499;344;7601;Olinda;PE;03/05/2019;1
+Zachary Weaver;Eliana Keith;George Small;15/07/1998;1653102790599;593;8350;Petrolina;PE;27/07/2019;1
+April Bailey;Margaret Lott;Xanthus Lindsey;18/10/1976;1646092780099;110;8744;Caruaru;PE;21/04/2018;0
+Garth Collier;Imani Turner;Malachi Hogan;08/09/1966;1633021621699;768;6005;Camaragibe;PE;17/07/2019;0
+Daryl Owens;Mollie Dorsey;Leroy Campos;11/12/1992;1621071960399;898;7658;Paulista;PE;12/08/2019;0
+Nasim Hartman;Adele Pickett;Sean Fernandez;14/02/2015;1696081375799;248;9186;Recife;PE;29/07/2019;0
+McKenzie Hogan;Candice Chase;Timothy Schroeder;29/12/1913;1632092732099;121;4501;Petrolina;PE;09/11/2018;0
+Caryn Dickson;Tara Myers;Quinlan Payne;09/02/2005;1617021035799;870;7616;Jaboatão dos Guararapes;PE;08/02/2019;0
+Harlan Atkinson;Sheila Farmer;Hyatt Pena;08/01/2005;1661052380499;246;9332;Petrolina;PE;19/06/2018;1
+Raymond Phelps;Cecilia Elliott;Preston Hamilton;09/08/1951;1649031404499;883;5394;Jaboatão dos Guararapes;PE;30/03/2018;0
+Darryl Daugherty;Evelyn Lynch;Nero Ayala;12/07/1981;1616091853999;782;8842;Olinda;PE;11/06/2019;1
+Maxwell Myers;Alfreda Wyatt;Giacomo Lowery;07/08/1991;1677011929799;699;9193;Colombo;PR;22/01/2018;0
+Sacha Marsh;Alice Shields;Lawrence Bowman;11/05/1975;1648052480599;390;9101;Curitiba;PR;05/03/2019;0
+Hammett Barnett;Tana Pate;Keegan Waller;14/04/2018;1624092758799;254;6633;Foz do Iguaçu;PR;31/03/2018;0
+Eaton Oneal;Scarlett Chaney;Vance Guerrero;22/11/1951;1676010417999;171;9694;Paranaguá;PR;23/01/2018;0
+Katell Harrison;Adara Reyes;Nigel Sparks;27/07/1932;1672060336999;697;4469;Colombo;PR;16/07/2019;0
+Alexandra Hinton;Alexis Bullock;Garth Santiago;27/01/1983;1652050349999;534;2835;Londrina;PR;08/11/2019;1
+Forrest Gibson;Yen Cotton;Hoyt Macdonald;26/02/1969;1684110130899;904;3643;Paranaguá;PR;18/02/2019;1
+Walker Key;Lynn Oconnor;Timothy Cantu;27/03/1908;1619032296699;948;9001;Curitiba;PR;14/10/2019;1
+Lynn Christensen;Stacy Cooley;Marsden Mooney;08/12/1951;1690081670199;246;5141;Ponta Grossa;PR;09/10/2019;1
+Magee Palmer;Melodie Huber;Preston Gould;31/03/1996;1613061410899;554;3075;Maringá;PR;27/05/2018;1
+Lee Montgomery;Yael Brock;Kasimir Ruiz;03/12/2009;1626113016199;298;3602;São Gonçalo;RJ;03/06/2019;0
+Phillip Hendricks;Alea Dickerson;Orson Bean;16/01/1939;1668091367099;211;5889;Nova Iguaçu;RJ;26/05/2018;0
+Cain Christensen;Regina Vance;Keane Hale;27/08/1955;1673022080699;435;3038;Nova Iguaçu;RJ;12/01/2018;1
+Ross Ramos;Tashya Sparks;Tanner Ellison;26/06/1932;1697031684399;988;4190;Niterói;RJ;19/11/2019;1
+Bernard Price;Evelyn Williamson;Fuller Hopkins;28/10/1982;1607062803699;650;7984;São Gonçalo;RJ;17/04/2019;0
+Jamal Velazquez;Cleo Pittman;Steel Henson;20/03/1991;1651011560099;542;4388;Campos dos Goytacazes;RJ;20/06/2019;1
+Neve Wood;Gloria Morrow;Brenden Robles;12/02/1992;1687012139899;351;4328;São João de Meriti;RJ;22/09/2019;0
+Derek Carey;Imelda Roman;Ulysses Rowe;20/07/1960;1632021076599;456;2316;São Gonçalo;RJ;13/01/2019;0
+Patrick Ray;Kylie Wallace;Kennan Alvarez;22/12/2001;1604091974899;558;5567;Nova Iguaçu;RJ;06/06/2019;0
+Elvis Parker;Martena Robbins;Prescott Compton;05/06/1997;1628102560399;528;9926;Duque de Caxias;RJ;04/10/2019;1
+Avram Cortez;Jacqueline Merrill;Herman Wagner;22/03/1951;1661110175899;194;7300;São Gonçalo;RJ;10/03/2018;1
+Karleigh Terrell;Christine Dejesus;Cyrus Gomez;25/03/1962;1654031890099;603;5517;São João de Meriti;RJ;23/05/2019;0
+Ethan Gonzalez;Paloma Baker;Darius Pacheco;03/07/1944;1642122621399;742;8555;Belford Roxo;RJ;28/08/2019;0
+Hyatt Morrison;Aimee Hawkins;Dustin Lindsay;04/01/1918;1603060278799;625;7685;Niterói;RJ;21/10/2019;1
+Christen Maxwell;Lois Love;Drake Hatfield;08/06/1944;1620040707099;638;4179;Campos dos Goytacazes;RJ;23/07/2018;1
+Laith Ashley;Carla Estes;Akeem Gonzalez;13/11/1950;1618031724299;192;8741;São Gonçalo;RJ;24/02/2019;0
+Kalia Frye;Aurelia Lee;Kato Lewis;11/08/1927;1691031419599;836;5904;Belford Roxo;RJ;15/11/2018;0
+Warren Robbins;Hillary Buck;Jerome Brooks;03/07/1992;1683090846699;850;8123;Rio de Janeiro;RJ;22/12/2019;1
+Jena Vang;Nina Moody;Austin Tyler;08/05/1958;1678091359599;183;2155;Novo Hamburgo;RS;26/06/2019;0
+Jack Goodwin;Deanna Harper;Jack Irwin;31/01/1980;1625081794099;635;9542;Gravataí;RS;10/11/2018;0
+Kim Taylor;Kirestin Giles;Gabriel Cook;19/07/1914;1617032181399;930;8975;Porto Alegre;RS;25/12/2019;1
+Todd Bennett;Kyla Callahan;Timothy Curry;16/03/1911;1603041289399;903;4936;Novo Hamburgo;RS;02/01/2020;1
+Lydia Merritt;Yen Weeks;Fletcher Gaines;02/09/1960;1620061598699;655;7475;Caxias do Sul;RS;08/09/2018;1
+Armand Jones;Iliana Padilla;Brett Bonner;12/09/1954;1696051629499;399;7846;Pelotas;RS;12/06/2019;1
+Ria Stephenson;Frances Montoya;Marshall Torres;29/09/1960;1648072565399;354;8531;Pelotas;RS;30/12/2019;0
+Victoria Dalton;Alyssa Nieves;Randall Holman;17/02/1949;1600062627899;418;9180;Canoas;RS;21/09/2019;0
+Ebony Haney;Montana Calderon;Xanthus Haynes;20/07/1966;1693071539199;545;2244;Santa Maria;RS;21/01/2019;1
+Tamara Franklin;Rhea Dorsey;Lionel Conley;09/02/1930;1653110932799;967;8512;Gravataí;RS;07/08/2019;1
+Brittany Rodriquez;Buffy Joyce;Simon Snider;31/03/1968;1662062430399;909;9256;Duque de Caxias;RJ;04/01/2020;1
+Noel Hammond;Maxine Rowe;Conan Spencer;22/08/1998;1656050830799;619;6667;Campos dos Goytacazes;RJ;23/01/2018;1
+Robert Nguyen;Quynn Snyder;Fletcher Underwood;24/03/2000;1698013019699;220;5347;Rio de Janeiro;RJ;07/01/2019;1
+Imelda Floyd;Ingrid Hicks;Reuben Rogers;06/07/1966;1602052828899;479;7455;São Gonçalo;RJ;01/10/2018;1
+Yoshio Garrett;Kameko Harmon;Dillon Hudson;23/05/1953;1692051189799;245;7105;Belford Roxo;RJ;24/07/2019;1
+Jakeem Maddox;Althea Williamson;Price Delaney;12/07/2017;1679081379299;543;4070;Duque de Caxias;RJ;04/05/2018;1
+Shaine Cooke;Emerald Cummings;Silas Jefferson;04/06/1989;1626072470799;800;2758;Niterói;RJ;06/07/2019;0
+Xanthus Vargas;Germane Travis;Lawrence Pierce;22/05/1914;1661032548999;560;9739;Belford Roxo;RJ;25/11/2018;1
+Vernon Mcguire;Diana Bruce;Wylie Mercer;25/12/1965;1653100894399;757;7798;Petrópolis;RJ;03/07/2019;1
+Allistair Booth;Risa Macdonald;Stephen Deleon;05/09/2015;1680030897799;604;3371;São Gonçalo;RJ;21/09/2019;0
+Galena Sears;Noel Fitzpatrick;Todd Bush;22/07/2014;1608111633099;186;5778;Campos dos Goytacazes;RJ;22/07/2018;0
+Phelan Ferrell;Kaye Owens;Kamal Mcgowan;11/10/1923;1643042490899;695;2970;Porto Alegre;RS;14/07/2019;1
+Adrienne Stanton;Robin Hopkins;Ira Klein;17/11/1931;1662081772999;448;7102;Caxias do Sul;RS;06/10/2018;0
+Christopher Bryant;Daria Martin;Jasper Mann;24/01/1996;1601042400599;465;2255;Porto Alegre;RS;26/12/2018;0
+Liberty Coffey;Shaeleigh Hines;Wyatt Mendoza;22/01/1942;1677112331899;441;3012;Porto Alegre;RS;24/01/2019;1
+Alisa Hardin;Fatima Matthews;Honorato Maxwell;31/07/1992;1674070643599;496;7340;Pelotas;RS;07/11/2019;0
+Shoshana Cantrell;Zelda Spears;Isaiah Puckett;16/12/1944;1680110351399;370;3321;Porto Alegre;RS;20/04/2019;0
+Alea Irwin;Sarah Dixon;Kelly Grimes;30/09/1945;1675012825599;654;5335;Santa Maria;RS;15/03/2019;0
+Hilda Case;Emi Frederick;Fitzgerald Valenzuela;04/03/1913;1606071606999;787;6475;Novo Hamburgo;RS;20/06/2018;1
+Kaye Andrews;Victoria Browning;Donovan Morse;18/01/1986;1666122866599;539;7557;Caxias do Sul;RS;17/04/2018;1
+Uriah Weeks;Rhonda Abbott;Paul Sanchez;04/05/1933;1651020923499;866;5943;Canoas;RS;05/05/2018;0
+Dante Shelton;Urielle Hobbs;Bruce Bernard;30/05/1973;1658120102899;840;5909;Novo Hamburgo;RS;09/03/2019;1
+Shea Hunt;Sade Craft;Conan Banks;06/04/1993;1615062233999;811;4442;Santa Maria;RS;14/05/2018;0
+Sasha Ellison;Mercedes Castillo;Sawyer Aguirre;21/07/1987;1636022804299;236;2434;Caxias do Sul;RS;03/03/2018;1
+Regan Boone;Yael Harding;Davis Bowen;14/04/1912;1684082275199;279;2983;Rio Grande;RS;16/10/2018;1
+Iola Dickson;Karina Stanley;Denton Hogan;28/12/1923;1697090463399;223;8994;Piracicaba;SP;16/11/2018;1
+Neve Gilliam;Kaitlin Case;Asher Cooper;30/10/1974;1662032741699;373;3397;Mauá;SP;18/09/2019;1
+Illiana Olson;Anastasia Craig;Gary Welch;28/07/1928;1659100240799;167;4286;Mauá;SP;09/02/2018;1
+Lester Roy;Cathleen Rush;Merritt Ferguson;18/11/1959;1684070172199;154;8684;Piracicaba;SP;26/09/2019;1
+Maia Stewart;Zenaida Yang;Jamal Pope;26/03/1939;1684031725099;362;4909;Campinas;SP;14/07/2018;0
+Nina Ellison;Ora Myers;Otto Sims;06/11/1941;1668111328599;325;3214;Carapicuíba;SP;07/07/2019;1
+Emily Monroe;Priscilla Mcfadden;Mark Rosales;23/07/2000;1618012619999;607;9913;Mogi das Cruzes;SP;10/06/2018;0
+Noel Franks;Quon Horn;Jack Mcdaniel;02/03/2003;1623031793199;842;4713;Mauá;SP;25/09/2019;1
+Avram Branch;Rhea Wilkerson;Lucas Harrell;17/01/1931;1625111084899;637;4020;Piracicaba;SP;17/07/2018;1
+Hayfa Campos;Keiko Wooten;Neville Gordon;03/06/1978;1698120250399;656;5238;Guarulhos;SP;14/02/2018;0
+Louis Cobb;Moana Maynard;Keegan Decker;19/08/2013;1691080899599;544;5144;Carapicuíba;SP;06/12/2018;1
+Ella Burnett;Jenna Jacobson;Orlando Middleton;17/01/1982;1653032843799;685;3051;Diadema;SP;20/10/2019;1
+Vernon Allison;Rhonda Bradshaw;Ivan Fisher;26/03/1970;1682070935399;242;3971;Guarulhos;SP;22/01/2018;0
+Regan Kelley;Katelyn Kinney;Marshall Bird;09/12/1971;1690031855199;196;7269;Diadema;SP;15/05/2018;1
+Stephen Munoz;Candace Hensley;Ulric Paul;22/05/2002;1621042861999;379;8799;Ribeirão Preto;SP;24/09/2018;0
+Bianca Jones;Francesca Ayala;Michael Roman;19/01/1921;1642071885699;114;8926;Carapicuíba;SP;12/08/2018;1
+Sybill House;Keely Ashley;Aidan Bowman;01/12/1995;1600040931599;571;9637;Jundiaí;SP;15/08/2019;1
+Summer Kramer;Hanae Greene;Bevis Strong;26/08/1978;1648100680699;367;4488;Campinas;SP;24/04/2019;0
+Elmo Mcdaniel;Fallon Mann;Rajah Gonzales;10/09/2008;1603040317399;252;4241;Carapicuíba;SP;19/01/2019;0
+Steven Glass;Juliet Hensley;Dennis Benton;01/09/1979;1633010401799;937;2430;Guarulhos;SP;16/12/2019;0
+Amos Kim;Mallory Wilson;Dalton Chavez;27/11/1910;1699030915499;180;2234;Mogi das Cruzes;SP;12/01/2019;1
+Xyla Cortez;Maia Mendoza;Malachi Dorsey;04/04/1989;1601051819499;432;4225;Guarulhos;SP;26/02/2018;1
+Bernard Jordan;Jaime Bruce;Fitzgerald Peterson;06/02/1912;1679092805799;354;8105;Mauá;SP;13/02/2018;1
+Tanisha Wallace;Charlotte Day;Duncan Flowers;22/08/2000;1695060152599;358;7148;Mogi das Cruzes;SP;19/04/2018;0
+Cairo Talley;Natalie Pratt;Demetrius Duran;14/01/1970;1667092370799;884;6747;Mogi das Cruzes;SP;29/11/2019;0
+Pearl Workman;Alyssa Maxwell;Quamar Lamb;05/10/1955;1643101319799;936;5883;Diadema;SP;20/12/2018;1
+Dakota Mcmahon;Yael Carroll;Ryan Barton;18/02/1964;1632061737899;131;2366;Mauá;SP;10/04/2019;1
+Piper Fisher;Lois Fischer;Gavin Arnold;15/10/1943;1657112129299;654;3298;Campinas;SP;14/04/2019;0
+Yeo Hanson;Melanie Johnson;Ali Sanders;28/07/1986;1686090557399;873;6282;Guarulhos;SP;17/06/2018;1
+Jescie Welch;Ciara Reilly;Macon Wynn;20/04/1980;1638101276899;756;4294;Ribeirão Preto;SP;14/10/2018;1
+Bell Lamb;Yuri Tillman;Owen Huff;06/12/1971;1683082030899;616;5409;Guarulhos;SP;04/06/2019;1
+Rashad Stevenson;Victoria Chandler;Isaac Allison;17/10/1997;1645040912799;270;7161;Campinas;SP;01/09/2018;0
+Sybil Kirk;Keiko Alvarado;Igor Kidd;06/01/2007;1693110864699;881;8288;Piracicaba;SP;22/01/2019;1
+Judah Whitney;Katell Compton;Quinlan Brooks;03/12/1974;1616121001299;768;8376;Osasco;SP;28/01/2018;0
+Michael Murphy;Fallon Tillman;Cadman Levy;27/06/1971;1684062564199;837;5597;Jundiaí;SP;19/06/2018;0
+Leilani Meyer;Susan Mcleod;Joel Richards;19/06/1964;1605050138099;952;7248;Ribeirão Preto;SP;27/07/2019;1
+Yael Mccarthy;Sybill Huff;Howard Love;31/08/1931;1628102293399;552;8562;Carapicuíba;SP;15/07/2018;0
+Alexis Castro;Evangeline Reese;Seth Hughes;29/11/1982;1645032873199;761;2243;Mauá;SP;11/07/2018;0
+Thaddeus Griffin;Ursula Montoya;Julian Vargas;29/06/1934;1669022996999;322;9690;Jundiaí;SP;19/12/2018;1
+Hoyt Barrett;Elizabeth Slater;Lance Lloyd;13/12/1936;1612040818299;813;5935;Campinas;SP;06/11/2019;1
+Briar Gibbs;Lisandra Welch;Brendan Adkins;22/12/1939;1615102656799;380;3370;Guarulhos;SP;04/12/2018;1
+Jelani Tyler;Avye Davenport;Oren Murphy;16/02/1967;1626090412999;914;2812;Diadema;SP;29/09/2019;0
+Tallulah Hammond;Gay Brooks;Evan Nunez;11/08/1965;1675111952599;585;8554;Carapicuíba;SP;18/04/2018;1
+Travis Newton;Delilah Mckay;Jin Aguirre;18/09/1908;1613041136999;914;2827;Ribeirão Preto;SP;05/04/2019;0
+Mariam Clayton;Donna Mcneil;Thor Castro;31/07/1958;1697032626299;333;8575;Ribeirão Preto;SP;15/12/2019;0
+Claire Dudley;Sierra Conley;Elvis Faulkner;06/09/1939;1692122470399;453;3976;Mogi das Cruzes;SP;20/09/2018;0
+Slade Henderson;Ginger Walters;Quamar Bradshaw;25/10/1927;1631012406199;305;3554;Mogi das Cruzes;SP;18/03/2018;1
+Dustin Duke;Aline Bates;Isaiah Aguilar;28/12/1913;1668031539099;225;7431;Ribeirão Preto;SP;09/03/2018;0
+Hedy Cook;Kimberley Ware;Harper Glenn;01/02/1972;1695111550999;769;3610;Carapicuíba;SP;12/01/2018;1
+Gary Jenkins;Jocelyn Holman;Evan Holloway;07/07/1985;1698100660699;978;4960;Piracicaba;SP;21/11/2018;0
+Rebekah Mullins;Cherokee Short;Dennis Meadows;21/06/1987;1612072801199;133;8476;Osasco;SP;22/04/2018;0
+Kato Salinas;Kay Murphy;Vaughan Hubbard;01/08/1913;1635062749899;794;6983;Mauá;SP;11/12/2019;1
+Yuri Bowen;Germane Dodson;Knox Perez;24/06/1928;1665021180499;223;3445;Jundiaí;SP;06/01/2020;1
+Gareth Albert;Avye Ray;Charles Reilly;07/04/2002;1637111649199;281;8089;Osasco;SP;04/09/2018;0
+April Downs;Sophia Gray;Geoffrey Workman;12/02/2011;1612013063699;496;7015;Florianópolis;SC;28/01/2019;1
+Harriet Leon;Iliana Sweeney;Jacob Schmidt;15/08/1908;1665022367099;273;5359;Chapecó;SC;29/10/2018;0
+Aphrodite Bernard;Hilary Coleman;Dante Harding;12/12/1972;1601020380899;506;6877;São José;SC;09/11/2019;1
+Jarrod Townsend;Cassady Lyons;Paul Tucker;09/11/1932;1668041857599;273;5245;Itajaí;SC;31/08/2018;0
+Hashim Brady;Indigo Camacho;Deacon Simmons;14/07/1911;1638033085399;575;9371;Itajaí;SC;11/08/2019;1
+Wanda Lyons;Kay Mckinney;Geoffrey Hurley;10/10/2005;1688041453999;108;4664;Criciúma;SC;10/09/2019;1
+Alden Levy;Dawn Turner;Logan Beck;20/06/1960;1687050174699;990;6428;São José;SC;24/12/2018;1
+Tad Barlow;Danielle Cantu;Christian Ward;03/09/2001;1647103048499;323;4301;Joinville;SC;24/10/2018;1
+Sylvia Blankenship;Jolene Herman;Xenos Russell;01/01/1975;1608111390999;333;8939;Blumenau;SC;01/08/2018;1
+Lani Harmon;Adria Mills;Baker Burns;01/01/1957;1618041989899;153;6847;Itajaí;SC;16/12/2018;0
+Bianca Christian;Claudia Jordan;David Houston;30/01/1924;1679022420099;344;5078;Florianópolis;SC;18/10/2018;0
+Claudia Mcintyre;Halla Floyd;Benedict Brock;12/02/1930;1642060439499;407;7336;São José;SC;29/08/2018;1
+Yuli Cleveland;Denise Bass;Jason Merritt;24/09/2005;1614073073899;144;7581;São José;SC;21/04/2019;0
+Erica Rogers;Leila Salas;Amery Obrien;29/07/1967;1620111647199;423;8715;Florianópolis;SC;24/08/2018;1
+Deirdre Leblanc;Shelly Taylor;Kareem Scott;12/08/2003;1663042223499;562;3321;Criciúma;SC;07/09/2019;0
+Solomon Watkins;Lavinia Weber;Wallace Stein;04/11/1952;1612101249999;792;7595;Criciúma;SC;10/09/2018;1
+Cade Cote;Pearl Slater;Omar Ashley;06/02/2009;1646032520499;801;4608;Chapecó;SC;17/09/2019;1
+Simone Shepherd;Illiana Kent;Holmes Bernard;06/05/1924;1653031898899;262;4129;Florianópolis;SC;05/05/2019;1
+Adrienne Witt;Quyn Conner;Austin Medina;28/03/1935;1663102641399;940;7468;Mauá;SP;15/11/2019;0
+Sheila Dejesus;Lydia Thompson;Stewart Dotson;01/05/1965;1637082000599;284;2574;Jundiaí;SP;28/02/2018;0
+Francesca Snow;Gay Cameron;Wing Graham;11/10/1948;1688110991299;994;6683;Carapicuíba;SP;23/11/2018;0
+Erich Mckinney;Kitra Kaufman;Clarke Mcdaniel;29/01/1955;1647071871299;126;7178;Jundiaí;SP;08/04/2019;1
+Mira Mckee;Nichole Ortiz;Magee Leblanc;28/04/1956;1675030425199;998;8664;Mauá;SP;17/08/2019;1
+Caesar Avery;Martina Wheeler;Steel Howell;13/05/1971;1603011851399;820;5236;Ribeirão Preto;SP;14/11/2018;1
+Addison Copeland;Sacha Brewer;Hamish Hale;10/12/1921;1691082772799;248;8496;Carapicuíba;SP;24/10/2018;1
+Reed Gates;Rosalyn Collins;Jasper Kline;23/01/2012;1624021850099;334;3189;Guarulhos;SP;01/05/2018;1
+Wallace Pratt;Lysandra Lott;Octavius Rush;07/08/2005;1644042386799;486;3756;Diadema;SP;07/05/2019;0
+Neil Church;Riley Hansen;Ishmael Navarro;19/08/1919;1625031456099;828;5718;Piracicaba;SP;04/04/2018;1
+Mariam Potts;Nayda Brock;Gavin Alvarado;07/09/1960;1663050893699;843;8721;Mauá;SP;10/11/2018;1
+Nichole Valdez;Keely Sims;Cairo Huff;19/09/1910;1647042701299;227;2830;Mogi das Cruzes;SP;16/08/2019;0
+Tanek Glover;MacKenzie Rose;Hashim Rasmussen;07/03/1909;1608100729399;775;8987;Osasco;SP;24/11/2018;0
+Idona Terrell;Charissa Wiggins;Alan Finley;16/11/1985;1610043065899;462;8385;Diadema;SP;21/01/2018;1
+Shelley Booker;Rae Griffith;Tarik Frederick;21/09/1980;1697123036099;991;7396;Jundiaí;SP;10/06/2019;1
+Zena Stokes;Sheila Holt;Clarke Adkins;02/02/2001;1690023068699;669;4663;Guarulhos;SP;17/11/2019;0
+Lila Duncan;Melissa Harrell;Dieter Britt;03/07/1942;1629090600099;239;5458;Mogi das Cruzes;SP;25/12/2018;1
+Farrah Jefferson;Shelly Cummings;Hall Wilkerson;07/05/1936;1670062881199;444;2611;Mauá;SP;22/02/2018;0
+Ursula Solis;Taylor Gamble;Jonas Hart;20/08/1918;1604102535299;373;4033;Osasco;SP;02/06/2018;1
+Adena Wilcox;Nomlanga Jones;Neil Horne;10/06/1988;1612012856199;240;2648;Carapicuíba;SP;22/10/2019;0
+Cedric Roth;Mariko Stout;Colton Kline;22/10/1989;1608091147099;379;4637;Mauá;SP;15/06/2018;0
+Hu Martin;Charlotte Snow;Wallace Smith;01/10/2005;1618070120099;579;8529;Osasco;SP;19/11/2019;1
+Kai Hall;Miriam Gould;Asher Hurst;28/10/1966;1696060720699;415;6700;Ribeirão Preto;SP;18/08/2018;1
+Lester Mcclure;Macey Larson;Dolan Roman;24/09/1929;1646112842799;509;2064;Mauá;SP;08/11/2019;0
+Guinevere Webster;Virginia Bolton;Hunter Snider;10/05/1916;1658101215799;861;9009;Mauá;SP;20/09/2018;1
+Cruz Pope;Callie Williamson;Zeph Bird;02/04/1927;1661031405399;193;5452;Piracicaba;SP;03/12/2018;1
+Summer Byrd;Christen Warren;Oliver Hancock;28/02/1947;1605020421199;236;3909;Osasco;SP;04/05/2018;1
+Stacy Herrera;Aurora Howell;Brody Schmidt;12/04/1998;1686121441099;498;2823;Mauá;SP;11/11/2018;1
+Shelly Donaldson;Imelda Donovan;Brian Nguyen;06/06/1932;1641103099199;954;3121;Piracicaba;SP;30/07/2019;0
+Piper Rowland;Haley Castillo;Davis Trujillo;24/05/1999;1660010154499;524;3996;Campinas;SP;11/02/2018;1
+Allen Hyde;Lael Mclean;Stone Fowler;31/05/1987;1619070686699;854;5414;Campinas;SP;26/07/2018;1
+Quemby Montgomery;Abra Carrillo;Rafael Acevedo;21/11/1919;1614061323099;263;9710;Osasco;SP;15/05/2019;1
+Plato Porter;Xena Mccullough;Dominic Weaver;29/09/1959;1632070818699;432;6551;Piracicaba;SP;21/11/2018;1
+Neil Roberts;Brooke Valdez;Melvin Bird;04/01/1916;1694090917499;879;9438;Mauá;SP;23/10/2019;0
+Amity Love;Melodie Bray;Gray Barker;12/10/1946;1630102658299;639;6679;Mogi das Cruzes;SP;25/10/2019;1
+Ainsley Velazquez;Sloane Hicks;Porter Beck;22/07/2008;1634030927599;699;8069;Jundiaí;SP;01/03/2018;1
+Ashton Farley;Shelly Caldwell;Lamar Ware;11/04/1991;1683062174599;314;4790;Osasco;SP;12/09/2019;1
+Scarlet Mccarty;Adria Bernard;Preston Kline;04/08/1944;1686100662899;988;6661;Jundiaí;SP;31/03/2018;1
+Julian Carver;Rae Moses;Andrew Jordan;12/11/1965;1607032015199;843;4172;Campinas;SP;16/06/2018;1
+Bianca Levy;Illiana Alvarez;Scott Mitchell;20/03/1951;1683051792999;751;9259;Guarulhos;SP;23/05/2018;0
+Beatrice Berg;Jayme Burt;August Bush;19/11/2001;1688020588499;344;3733;Ribeirão Preto;SP;06/08/2018;1
+Matthew Stewart;Kyra Clayton;Elvis Boyer;31/07/1913;1674093003899;306;3449;Ribeirão Preto;SP;19/12/2018;1
+Urielle George;Francesca Mcfarland;Harper Shields;08/09/1922;1696102575299;552;3694;Ribeirão Preto;SP;01/05/2018;0
+Moana Fernandez;Vivian Delaney;Zephania Barnes;03/11/1957;1645032088499;304;6061;Ribeirão Preto;SP;23/03/2019;1
+Baxter Mcintosh;Tana Finch;Bruce Daniels;18/01/1991;1633071357699;989;4268;Carapicuíba;SP;19/07/2018;1
+Nichole Madden;Mechelle Kidd;Ignatius Owen;24/06/1928;1676080376699;965;2845;Piracicaba;SP;17/02/2018;1
+Macey Schmidt;Kim Mayer;Lane Crawford;14/05/1979;1607072447199;436;4057;Mauá;SP;16/04/2019;1
+Shafira Lamb;Marah Faulkner;Jackson Walton;21/02/2003;1677013092599;397;5364;Guarulhos;SP;30/09/2019;0
+Amal Little;Lavinia Pena;Ira Bryant;26/04/1960;1670102584299;707;9026;Diadema;SP;07/02/2019;1
+Ashton Downs;Dora Roach;Kyle Mercado;05/05/1921;1699081191899;850;4737;Jundiaí;SP;02/07/2019;1
